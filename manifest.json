@@ -1,0 +1,11 @@
+{
+	"id": "idm-commander",
+	"name": "IDM Commander",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Accessory to IDM for Unreal Engine.",
+	"author": "CalebJWilson",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
